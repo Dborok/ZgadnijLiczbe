@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.denis","l":"DenisApplication"},{"p":"com.example.denis","l":"Player"},{"p":"com.example.denis","l":"PlayerController"},{"p":"com.example.denis","l":"PlayerDb"},{"p":"com.example.denis","l":"PlayerService"}];updateSearchResults();
